@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,geller-pa.googleapis.com
 
 # Google AI Studio
 DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,makersuite.google.com
